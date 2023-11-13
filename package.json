@@ -2,6 +2,7 @@
 	"name": "brodie-heat-dark",
 	"displayName": "Brodie-Heat",
 	"description": "('dark mode theme based on Brodie and Maimi Heatmade by @thedevbek')",
+    "icon":"/brodie.png",
 	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.84.0"
