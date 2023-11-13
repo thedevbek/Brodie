@@ -1,12 +1,17 @@
 # Brodie README
 
-## Working with Markdown
+## Brodie and Maimi Heat Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This color theme has the Maimi Heat colors.
+HEX COLOR: #41B6E6;
+HEX COLOR: #DB3EB1;
+ 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+ ![](./screenshot.png)
+ ![](./brodie.png)
+
+### Author
+ X-Twitter - [@thedevbek](https://www.twitter.com/thedevbek)
 
 ## For more information
 
