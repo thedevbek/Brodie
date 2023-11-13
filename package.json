@@ -1,0 +1,32 @@
+{
+	"name": "brodie-heat-dark",
+	"displayName": "Brodie-Heat",
+	"description": "('dark mode theme based on Brodie and Maimi Heatmade by @thedevbek')",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.84.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "brodie-heat-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/brodie-heat-dark-color-theme.json"
+			}
+		]
+	},
+	"publisher": "thedevbek",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/agenomicsphd/agenomicsphd-light"
+	},
+	"keywords": [
+		"dark theme",
+		"pink theme",
+		"turquoise theme",
+		"pink and blue theme"
+	]
+}
